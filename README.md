@@ -4,7 +4,9 @@ A read-only [Model Context Protocol](https://modelcontextprotocol.io) (MCP) serv
 
 It was designed for an HR Supervisor Coaching agent: frontline supervisors practice difficult conversations, get coaching language they can adapt, and are routed to HR when a situation needs it. The agent can only answer from content HR has approved, and the connection itself enforces that boundary.
 
-> **Note:** The `content/` folder contains fictional sample documents for demonstration and testing. It does not contain real policies. Replace it with your own approved content, stored outside this repository.
+> **Note:** The `content/` folder contains sanitized sample documents for demonstration and testing. It does not contain real policies. 
+
+Replace it with your own approved content, stored outside this repository.
 
 ## Why this exists
 
