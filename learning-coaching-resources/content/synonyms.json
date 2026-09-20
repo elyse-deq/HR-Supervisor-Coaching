@@ -1,0 +1,16 @@
+{
+  "late": ["lateness", "tardy", "tardiness", "punctuality", "arrival"],
+  "arrive": ["late", "lateness", "arrival"],
+  "absent": ["absence", "callout", "no-show"],
+  "argue": ["conflict", "dispute", "disagreement"],
+  "fight": ["conflict", "dispute", "altercation"],
+  "worker": ["employee"],
+  "underperform": ["performance", "coaching", "expectations"],
+  "unsafe": ["safety", "hazard", "injury"],
+  "complaint": ["client", "customer", "feedback"],
+  "rude": ["communication", "tone", "respectful"],
+  "record": ["documentation", "document", "notes"],
+  "write": ["document", "documentation", "record"],
+  "prepare": ["preparation", "checklist"],
+  "listen": ["listening", "reflect", "questions"]
+}
