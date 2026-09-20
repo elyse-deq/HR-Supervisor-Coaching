@@ -1,0 +1,38 @@
+[
+  {
+    "scenario_type": "harassment",
+    "approved_for_ai": true,
+    "triggers": ["Report of unwelcome conduct based on a protected characteristic", "Sexual comments or contact", "Bullying that targets a person or group"],
+    "contact": "HR Employee Relations (SAMPLE: er@example.com)",
+    "timing": "Same business day. Do not investigate or confront the accused.",
+    "source_doc_id": "GDE-CONF-001",
+    "source_title": "Manager Guide: Employee Conflict (SAMPLE)",
+    "version": "1.2",
+    "effective_date": "2025-11-01",
+    "source_url": "https://example.com/guides/conflict"
+  },
+  {
+    "scenario_type": "safety",
+    "approved_for_ai": true,
+    "triggers": ["Injury or near miss", "Threat of violence", "Unsafe condition that cannot be corrected immediately"],
+    "contact": "Site safety lead and HR (SAMPLE)",
+    "timing": "Immediately. Follow emergency procedures first.",
+    "source_doc_id": "POL-SAF-001",
+    "source_title": "Workplace Safety Policy (SAMPLE)",
+    "version": "3.0",
+    "effective_date": "2025-06-01",
+    "source_url": "https://example.com/policies/safety"
+  },
+  {
+    "scenario_type": "leave-or-accommodation",
+    "approved_for_ai": true,
+    "triggers": ["Employee mentions a medical condition", "Employee requests time off for a family or health reason", "Employee asks for a workplace change because of a personal circumstance"],
+    "contact": "HR Benefits and Leave (SAMPLE)",
+    "timing": "Same business day. Do not ask for medical details.",
+    "source_doc_id": "POL-ATT-001",
+    "source_title": "Attendance and Punctuality Policy (SAMPLE)",
+    "version": "2.1",
+    "effective_date": "2026-01-01",
+    "source_url": "https://example.com/policies/attendance"
+  }
+]

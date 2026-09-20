@@ -1,0 +1,12 @@
+{
+  "late": ["lateness", "tardy", "tardiness", "punctuality", "arrival"],
+  "arrive": ["late", "lateness", "arrival"],
+  "absent": ["absence", "callout", "no-show"],
+  "argue": ["conflict", "dispute", "disagreement"],
+  "fight": ["conflict", "dispute", "altercation"],
+  "worker": ["employee"],
+  "underperform": ["performance", "coaching", "expectations"],
+  "warning": ["corrective", "discipline", "disciplinary"],
+  "harass": ["harassment", "discrimination", "retaliation"],
+  "unsafe": ["safety", "hazard", "injury"]
+}
